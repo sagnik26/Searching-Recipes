@@ -36,7 +36,7 @@ npm run dev
 
 - `Search box`  Search for the recipes you want.
 
-  ![search box](https://user-images.githubusercontent.com/52010932/181518088-af5f24e1-0bc4-4b92-8078-72a0e1a0d28a.png)
+  ![search box](https://user-images.githubusercontent.com/52010932/181518999-2bf993ab-967c-489f-984f-5be75b5266db.png)
 
 
 
