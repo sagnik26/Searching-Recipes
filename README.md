@@ -2,7 +2,7 @@
 
 
 
-<img src="E:\Documents\Downloads\demo image.png" style="zoom:50%;" />
+![](E:\Documents\Downloads\demo image.png)
 
 
 
