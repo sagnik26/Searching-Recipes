@@ -34,9 +34,11 @@ npm run dev
 
 ## Features
 
+
 - `Search box`  Search for the recipes you want.
 
   ![search box](https://user-images.githubusercontent.com/52010932/181518999-2bf993ab-967c-489f-984f-5be75b5266db.png)
+
 
 
 
@@ -46,9 +48,11 @@ npm run dev
 
 
 
+
 - `Pagination buttons`  Pagination buttons are also rendered with respect to the number of recipes available according the input value given by the user. Each page contains only 10 results & if the number of results are more than 10, then pagination buttons will be rendered accordingly.                                                For example, if  there are 50 items available for "Pizza", then, five pages will be there, each page will have 10 items with pagination buttons rendered accordingly.
 
   ![pagination](https://user-images.githubusercontent.com/52010932/181518442-358fafc7-97b1-4853-8a4c-cc722be04645.png)
+
 
 
 
