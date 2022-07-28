@@ -36,25 +36,25 @@ npm run dev
 
 - `Search box`  Search for the recipes you want.
 
-  ![search box](E:\Documents\Downloads\search box.png)
+  ![search box](https://user-images.githubusercontent.com/52010932/181518088-af5f24e1-0bc4-4b92-8078-72a0e1a0d28a.png)
 
 
 
 - `Search results`  Search results will be shown according to the users input value.
 
-  ![](E:\Documents\Downloads\Search results.png)
+  ![Search results](https://user-images.githubusercontent.com/52010932/181518335-dc0dea3b-ad17-4210-b9ee-75a7257723b8.png)
 
 
 
 - `Pagination buttons`  Pagination buttons are also rendered with respect to the number of recipes available according the input value given by the user. Each page contains only 10 results & if the number of results are more than 10, then pagination buttons will be rendered accordingly.                                                For example, if  there are 50 items available for "Pizza", then, five pages will be there, each page will have 10 items with pagination buttons rendered accordingly.
 
-  ![pagination](E:\Documents\Downloads\pagination.png)
+  ![pagination](https://user-images.githubusercontent.com/52010932/181518442-358fafc7-97b1-4853-8a4c-cc722be04645.png)
 
 
 
 - `servings`  Recipe ingredients will be updated according the number of servings.
 
-  ![servings](E:\Documents\Downloads\servings.png)
+  ![servings](https://user-images.githubusercontent.com/52010932/181518547-6d119ea9-587c-42bd-ae2e-4cc663216699.png)
 
    
 
