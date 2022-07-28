@@ -42,6 +42,7 @@ const controlRecipe = async function() {
   }
 };
 
+
 const controlSearchResults = async function() {
   try {
 

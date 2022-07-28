@@ -20,7 +20,7 @@ class RecipeView extends View{
         const btn = e.target.closest('.btn--update-servings');
         if(!btn) return;
         console.log(btn);
-        const {updateTo}  = btn.dataset;
+        const {updateTo} = btn.dataset;
         if(+updateTo > 0) handler(+updateTo);
       })
     }
@@ -34,7 +34,7 @@ class RecipeView extends View{
     </h1>
     </figure>
 
-  <div class="recipe__details">
+    <div class="recipe__details">
     <div class="recipe__info">
       <svg class="recipe__info-icon">
         <use href="${icons}#icon-clock"></use>
