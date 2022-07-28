@@ -119,7 +119,7 @@ The Model-View-Controller (MVC) is **an architectural pattern that separates an 
 
  
 
-![SearchRecipes.drawio](E:\Documents\Downloads\SearchRecipes.drawio.png)
+![SearchRecipes drawio](https://user-images.githubusercontent.com/52010932/181521305-dcdf219c-ee20-4358-b9c2-175336fc8d2a.png)
 
 
 
