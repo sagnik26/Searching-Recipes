@@ -111,7 +111,7 @@ The Model-View-Controller (MVC) is **an architectural pattern that separates an 
 
 
 
-![mvc](E:\Documents\Downloads\mvc.png)
+![mvc](https://user-images.githubusercontent.com/52010932/181521102-36d0b4f8-07f8-496d-bb67-0823b5cc5b9e.png)
 
 
 
